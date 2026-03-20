@@ -1,0 +1,4 @@
+name: tf-psa-crypto
+build:
+  cmake-ext: False
+  kconfig-ext: False
